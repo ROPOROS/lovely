@@ -1,0 +1,332 @@
+# depslib dependency file v1.0
+1591364252 source:c:\users\pcone\desktop\fearofocean\affichage.c
+	"affichage.h"
+
+1587910046 c:\users\pcone\desktop\fearofocean\affichage.h
+	"structs.h"
+
+1591481104 c:\users\pcone\desktop\fearofocean\structs.h
+	"defs.h"
+
+1591532953 c:\users\pcone\desktop\fearofocean\defs.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326110987 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_platform.h
+
+1326110994 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326111000 c:\program files (x86)\codeblocks\sdl-1.2.15\include\begin_code.h
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\close_code.h
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_keysym.h
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1258278678 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325793194 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1258242752 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_types.h
+	"SDL_stdinc.h"
+
+1590673168 source:c:\users\pcone\desktop\fearofocean\animation.c
+	"animation.h"
+
+1589195992 c:\users\pcone\desktop\fearofocean\animation.h
+	"structs.h"
+
+1591482348 source:c:\users\pcone\desktop\fearofocean\collision.c
+	"collision.h"
+
+1587984014 c:\users\pcone\desktop\fearofocean\collision.h
+	"structs.h"
+
+1589194686 source:c:\users\pcone\desktop\fearofocean\enigme.c
+	"enigme.h"
+
+1589193561 c:\users\pcone\desktop\fearofocean\enigme.h
+	"structs.h"
+
+1587327943 source:c:\users\pcone\desktop\fearofocean\font.c
+	"font.h"
+
+1587910070 c:\users\pcone\desktop\fearofocean\font.h
+	"structs.h"
+
+1591481078 source:c:\users\pcone\desktop\fearofocean\init.c
+	"init.h"
+
+1589195216 c:\users\pcone\desktop\fearofocean\init.h
+	"structs.h"
+
+1590754185 source:c:\users\pcone\desktop\fearofocean\input.c
+	"input.h"
+
+1590754017 c:\users\pcone\desktop\fearofocean\input.h
+	"structs.h"
+
+1591480934 source:c:\users\pcone\desktop\fearofocean\main.c
+	"main.h"
+
+1589752788 c:\users\pcone\desktop\fearofocean\main.h
+	"structs.h"
+
+1591441321 source:c:\users\pcone\desktop\fearofocean\menu.c
+	"menu.h"
+
+1590163190 c:\users\pcone\desktop\fearofocean\menu.h
+	"structs.h"
+
+1587910025 source:c:\users\pcone\desktop\fearofocean\minimap.c
+	<string.h>
+	<unistd.h>
+	"minimap.h"
+
+1587587145 c:\users\pcone\desktop\fearofocean\minimap.h
+	<unistd.h>
+	"structs.h"
+
+1591477879 source:c:\users\pcone\desktop\fearofocean\monster.c
+	"monster.h"
+
+1589195675 c:\users\pcone\desktop\fearofocean\monster.h
+	"structs.h"
+
+1591011718 source:c:\users\pcone\desktop\fearofocean\musique.c
+	"musique.h"
+
+1587910121 c:\users\pcone\desktop\fearofocean\musique.h
+	"structs.h"
+
+1591532883 source:c:\users\pcone\desktop\fearofocean\player.c
+	"player.h"
+
+1589673844 c:\users\pcone\desktop\fearofocean\player.h
+	"structs.h"
+
+1591361443 source:c:\users\pcone\desktop\fearofocean\time.c
+	"time.h"
+
+1591361068 c:\users\pcone\desktop\fearofocean\time.h
+	"structs.h"
+
+1591440840 source:c:\users\pcone\desktop\fearofocean\save.c
+	"save.h"
+
+1590163065 c:\users\pcone\desktop\fearofocean\save.h
+	"structs.h"
+
+1590753697 source:c:\users\pcone\desktop\fearofocean\arduino.c
+	"arduino.h"
+
+1590753689 c:\users\pcone\desktop\fearofocean\arduino.h
+	"structs.h"
+
+1591534206 source:c:\users\pcone\desktop\fearofocean\jump.c
+	"jump.h"
+
+1591480043 c:\users\pcone\desktop\fearofocean\jump.h
+	"structs.h"
+
